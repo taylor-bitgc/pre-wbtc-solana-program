@@ -5,7 +5,7 @@ pub mod instructions;
 pub mod state;
 use instructions::*;
 
-declare_id!("2YWcdAEmqo8kG6UNs2miUoCD5KbvyhXUcxEmdwur5Lcb");
+declare_id!("G7oqx7YGTFyb3UR6Fz4WWgs3jPpauTqV9AnfvzHeKMBp");
 
 // Seeds constants
 pub const FACTORY_SEED: &[u8] = b"factory";

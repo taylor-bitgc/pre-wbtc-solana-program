@@ -12,7 +12,7 @@ pub use events::*;
 pub use instructions::*;
 pub use state::*;
 
-declare_id!("HarE5Yw8qJhbw6P3T4oH9p5uwWZT74HNykZRuuCiBF8m");
+declare_id!("41eYaSsErb92yWqpLftdFNKE3sZTyfsqwevxkpUBUJuv");
 
 // Seeds constants
 pub const CONTROLLER_SEED: &[u8] = b"controller";

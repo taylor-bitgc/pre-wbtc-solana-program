@@ -10,9 +10,9 @@ factory = ""
 members = ""
 
 [programs.devnet]
-controller = "HarE5Yw8qJhbw6P3T4oH9p5uwWZT74HNykZRuuCiBF8m"
-factory = "2YWcdAEmqo8kG6UNs2miUoCD5KbvyhXUcxEmdwur5Lcb"
-members = "2kFcMsgWPsMRaNarLgyJzgoD5PzXdbgYfAi1n5vW8ZKV"
+controller = "41eYaSsErb92yWqpLftdFNKE3sZTyfsqwevxkpUBUJuv"
+factory = "G7oqx7YGTFyb3UR6Fz4WWgs3jPpauTqV9AnfvzHeKMBp"
+members = "EThjganrVGMubqsCV7sfpxGkNrjoGtPEHSG6h8af75qR"
 
 [registry]
 url = "https://api.apr.dev"
